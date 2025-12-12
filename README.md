@@ -1,25 +1,54 @@
-<h1 align="center">Hi there, I'm Flobby 👋</h1>
+<h1 align="center">Hi 👋, I'm Flobby</h1>
 
 <p align="center">
-  <a href="https://github.com/Flobby949">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=A+passionate+developer;Always+learning+new+things;Open+source+enthusiast" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Always+learning+new+things;Open+source+enthusiast" alt="Typing SVG" />
 </p>
-
-<!-- 访客计数 -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Flobby949&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
+  <a href="https://blog.csdn.net/weixin_48471044"><img src="https://img.shields.io/badge/CSDN-Blog-c32136?style=flat&logo=csdn" alt="CSDN"/></a>
+  <a href="https://flobby.top"><img src="https://img.shields.io/badge/Profile-Website-blue?style=flat&logo=blogger" alt="Blog"/></a>
+  <img src="https://komarev.com/ghpvc/?username=Flobby949&label=Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Flobby949?label=Followers&style=social" alt="followers" />
 </p>
+
+
+---
+
+## 👋 About Me
+
+- 🎉 Full Stack Developer based in **Suzhou, China**
+- 🔭 Passionate about coding and exploring new technologies
+- 🌱 Currently learning: Cloud Native, DevOps, Microservices Architecture
+- 💬 Feel free to reach out for tech discussions
+- 📫 Blog: [blog.flobby.top](https://blog.flobby.top)
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,go,vue,ts,docker,mysql,redis,linux,git&perline=10" alt="Tech Stack" />
+</p>
+
+<details>
+<summary>📌 More Details</summary>
+
+**Backend**: Java / Spring Boot / Spring Cloud Alibaba / MyBatis-Plus / Dubbo / Netty
+
+**Frontend**: Vue 3 / TypeScript / uniapp / Flutter
+
+**Database & Middleware**: MySQL / Redis / RocketMQ / Elasticsearch
+
+**AI**: LLM / RAG / MCP / Dify / LangChain4j / Spring AI
+
+**DevOps**: Docker / Linux / Git / CI/CD
+
+**Others**: Golang (Gin, Kratos)
+
+</details>
 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Flobby949&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flobby949&layout=compact&langs_count=8&theme=tokyonight"/>
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Flobby949&theme=tokyonight" alt="GitHub Streak" />
@@ -30,12 +59,22 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Flobby949&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-trophies.vercel.app/?username=Flobby949&theme=tokyonight&no-frame=true&row=1&column=7" alt="trophies"/>
+  </a>
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Flobby949&theme=tokyo-night&radius=10&area=true" width="100%" alt="Activity Graph" />
+</p>
+
+---
+
+## 🐍 Contribution Snake
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Flobby949/Flobby949/output/github-contribution-grid-snake-dark.svg">
