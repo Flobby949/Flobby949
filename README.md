@@ -7,7 +7,7 @@
 </p>
 <p align="center">
   <a href="https://blog.csdn.net/weixin_48471044"><img src="https://img.shields.io/badge/CSDN-Blog-c32136?style=flat&logo=csdn" alt="CSDN"/></a>
-  <a href="https://flobby.top"><img src="https://img.shields.io/badge/Profile-Website-blue?style=flat&logo=blogger" alt="Blog"/></a>
+  <a href="https://www.flobby.top"><img src="https://img.shields.io/badge/Profile-Website-blue?style=flat&logo=blogger" alt="Blog"/></a>
   <img src="https://komarev.com/ghpvc/?username=Flobby949&label=Views&color=0e75b6&style=flat" alt="profile views" />
   <img src="https://img.shields.io/github/followers/Flobby949?label=Followers&style=social" alt="followers" />
 </p>
@@ -22,6 +22,7 @@
 - 🌱 Currently learning: Cloud Native, DevOps, Microservices Architecture
 - 💬 Feel free to reach out for tech discussions
 - 📫 Blog: [blog.flobby.top](https://blog.flobby.top)
+- 🌐 Website: [www.flobby.top](https://www.flobby.top)
 
 ---
 
